@@ -1,4 +1,4 @@
-# Codecademy - Learn C++
+# [Codecademy](https://www.codecademy.com) - Learn C++
 
 I love to expand my knowledge and thus started the "Learn C++" course by Codecademy. Part of this course are some fun little projects which I will share in this repository along the way.
 
