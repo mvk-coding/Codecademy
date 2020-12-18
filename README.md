@@ -15,3 +15,10 @@ The start of learning any new programming language: printing out a message :)
 * [initials.cpp](1_hello_world/block_letters/initials.cpp)</li>
 * [christmas_tree.cpp](1_hello_world/block_letters/christmas_tree.cpp)</li>
 
+## Part 2: Variables
+
+### Dog years:
+
+* [dog_years.cpp](2_variables/dog_years/dog_years.cpp.cpp)
+* [dog_years_extra.cpp](2_variables/dog_years/dog_years_extra.cpp)
+
