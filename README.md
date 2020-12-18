@@ -29,3 +29,6 @@ Using variables and some calculations.
 * [quadratic.cpp](2_variables/quadratic_formula/quadratic.cpp)
 *(and again conditionals, to improve the program)* 
 * [quadratic_extra.cpp](2_variables/dog_years/quadratic_extra.cpp)
+
+### Piggy Bank:
+* [currency.cpp](2_variables/piggy_bank/currency.cpp)
