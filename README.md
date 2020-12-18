@@ -12,6 +12,6 @@ The start of learning any new programming language: printing out a message :)
 
 ### Block Letters:
 
-* [initials.cpp](1_hello_world/initials.cpp)</li>
-* [christmas_tree.cpp](1_hello_world/christmas_tree.cpp)</li>
+* [initials.cpp](1_hello_world/block_letters/initials.cpp)</li>
+* [christmas_tree.cpp](1_hello_world/block_letters/christmas_tree.cpp)</li>
 
