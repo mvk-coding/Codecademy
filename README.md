@@ -17,8 +17,12 @@ The start of learning any new programming language: printing out a message :)
 
 ## Part 2: Variables
 
+Using variables and some calculations.
+
 ### Dog years:
 
 * [dog_years.cpp](2_variables/dog_years/dog_years.cpp.cpp)
+
+*(and a bit more to, namely conditionals, to improve te program)* 
 * [dog_years_extra.cpp](2_variables/dog_years/dog_years_extra.cpp)
 
