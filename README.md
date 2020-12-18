@@ -21,8 +21,11 @@ Using variables and some calculations.
 
 ### Dog years:
 
-* [dog_years.cpp](2_variables/dog_years/dog_years.cpp.cpp)
-
+* [dog_years.cpp](2_variables/dog_years/dog_years.cpp)
 *(and a bit more too, namely conditionals, to improve the program)* 
 * [dog_years_extra.cpp](2_variables/dog_years/dog_years_extra.cpp)
 
+### Quadratic Formula:
+* [quadratic.cpp](2_variables/quadratic_formula/quadratic.cpp)
+*(and again conditionals, to improve the program)* 
+* [quadratic_extra.cpp](2_variables/dog_years/quadratic_extra.cpp)
