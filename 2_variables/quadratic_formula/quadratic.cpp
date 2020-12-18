@@ -27,4 +27,4 @@ int main() {
   //showing the result
   std::cout << "The lower value for x is " << leftX <<"\n";
   std::cout << "The higher value for x is " << rightX <<"\n";
- }
+}
