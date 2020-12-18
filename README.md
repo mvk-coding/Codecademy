@@ -23,6 +23,6 @@ Using variables and some calculations.
 
 * [dog_years.cpp](2_variables/dog_years/dog_years.cpp.cpp)
 
-*(and a bit more to, namely conditionals, to improve te program)* 
+*(and a bit more too, namely conditionals, to improve te program)* 
 * [dog_years_extra.cpp](2_variables/dog_years/dog_years_extra.cpp)
 
