@@ -23,7 +23,7 @@ Using variables and some calculations.
 
 * [dog_years.cpp](2_variables/dog_years/dog_years.cpp)
 * [dog_years_extra.cpp](2_variables/dog_years/dog_years_extra.cpp)
-*(and a bit more too, namely conditionals, to improve the program)* 
+*(improved program with conditionals)* 
 
 ### Quadratic Formula:
 * [quadratic.cpp](2_variables/quadratic_formula/quadratic.cpp)
