@@ -29,7 +29,9 @@ int main() {
     if ( d < 0) {
       std::cout << "There is no value for x\n";
     } else if(d == 0) {
-      std::cout << "The value for x is 0\n";
+      double x;
+      x = (-b ) / (2*a);
+      std::cout << "The value for x is " << x << "\n";
     } else {
       //variables to store both values of X
       double leftX, rightX;
