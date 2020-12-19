@@ -48,3 +48,7 @@ Time to add some logic!
 ### Space weight:
 * [space.cpp](3_conditionals_and_logic/space_weight/space.cpp)
 A program to converse your earth weight to your weight on another planet
+
+### Leap year:
+* [leap_year.cpp](3_conditionals_and_logic/leap_year/leap_year.cpp)
+A program to check or a year is a leap year
