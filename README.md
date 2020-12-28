@@ -52,3 +52,7 @@ A program to converse your earth weight to your weight on another planet
 ### Leap year:
 * [leap_year.cpp](3_conditionals_and_logic/leap_year/leap_year.cpp)
 A program to check or a year is a leap year
+
+### Magic 8 Ball:
+* [magic_8_ball.cpp](3_conditionals_and_logic/magic_8_ball/magic_8_ball.cpp)
+A program to generate one of the answers of a Magic 8 Ball
