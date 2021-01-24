@@ -56,3 +56,7 @@ A program to check or a year is a leap year
 ### Magic 8 Ball:
 * [magic_8_ball.cpp](3_conditionals_and_logic/magic_8_ball/magic_8_ball.cpp)
 A program to generate one of the answers of a Magic 8 Ball
+
+### Harry Potter Sorting Hat Quiz:
+* [sortinghat.cpp](3_conditionals_and_logic/sortinghat/sortinghat.cpp)
+A quiz to determine whing Hogwarts house one belongs in.
