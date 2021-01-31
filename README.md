@@ -61,6 +61,10 @@ A program to generate one of the answers of a Magic 8 Ball
 * [sortinghat.cpp](3_conditionals_and_logic/sortinghat/sortinghat.cpp)
 A quiz to determine whing Hogwarts house one belongs in.
 
+### Rock, Paper, Scissors, Lizard, Spock
+* [rock_paper_scissors.cpp](3_conditionals_and_logic/rpsls/rock_paper_scissors.cpp)
+A game of Rock, Paper, Scissors to play against the computer
+
 ## Part 6: Vectors
 
 Adding vectors to the mix...
