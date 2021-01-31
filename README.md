@@ -64,6 +64,8 @@ A quiz to determine whing Hogwarts house one belongs in.
 ### Rock, Paper, Scissors, Lizard, Spock
 * [rock_paper_scissors.cpp](3_conditionals_and_logic/rpsls/rock_paper_scissors.cpp)
 A game of Rock, Paper, Scissors to play against the computer
+* [rpsls.cpp](3_conditionals_and_logic/rpsls/rpsls.cpp)
+A game of Rock, Paper, Scissors, Lizard, Spock improved with vectors
 
 ## Part 6: Vectors
 
