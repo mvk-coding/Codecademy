@@ -60,3 +60,11 @@ A program to generate one of the answers of a Magic 8 Ball
 ### Harry Potter Sorting Hat Quiz:
 * [sortinghat.cpp](3_conditionals_and_logic/sortinghat/sortinghat.cpp)
 A quiz to determine whing Hogwarts house one belongs in.
+
+## Part 6: Vectors
+
+Adding vectors to the mix...
+
+### Whale Talk:
+* [whale.cpp](6_vectors/whale_talk/whale.cpp)
+A program to translate a given sentence to whale
