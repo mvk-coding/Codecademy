@@ -72,7 +72,7 @@ A game of Rock, Paper, Scissors, Lizard, Spock improved with vectors
 Repetition automated :)
 
 ### FizzBuzz
-* [FizzBuzz.cpp] (4_loops/fizzbuzz/fizzbuzz.cpp)
+* [FizzBuzz.cpp](4_loops/fizzbuzz/fizzbuzz.cpp)
 Another little program
 
 ## Part 6: Vectors
