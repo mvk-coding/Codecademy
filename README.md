@@ -67,6 +67,14 @@ A game of Rock, Paper, Scissors to play against the computer
 * [rpsls.cpp](3_conditionals_and_logic/rpsls/rpsls.cpp)
 A game of Rock, Paper, Scissors, Lizard, Spock improved with vectors
 
+## Part 4: Loops
+
+Repetition automated :)
+
+### FizzBuzz
+* [FizzBuzz.cpp] (4_loops/fizzbuzz/fizzbuzz.cpp)
+Another little program
+
 ## Part 6: Vectors
 
 Adding vectors to the mix...
