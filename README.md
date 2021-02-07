@@ -75,6 +75,12 @@ Repetition automated :)
 * [FizzBuzz.cpp](4_loops/fizzbuzz/fizzbuzz.cpp)
 Another little program
 
+## Part 5: Loops challenge project
+
+### Text Adventure
+* [textAdventure.cpp](5_loops_challenge_project/text_adventure/textAdventure.cpp)
+A start for a text adventure game.
+
 ## Part 6: Vectors
 
 Adding vectors to the mix...
