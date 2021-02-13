@@ -88,3 +88,10 @@ Adding vectors to the mix...
 ### Whale Talk:
 * [whale.cpp](6_vectors/whale_talk/whale.cpp)
 A program to translate a given sentence to whale
+
+## Part 7: Functions
+Functioning even better now.
+
+### UFO 
+* [ufo](7_functions/ufo_basic)
+Hangman game in ufo style.
