@@ -20,7 +20,7 @@ Program to print a simple receipt.
 
 ### Magic 8-Ball:
 * [magic8.py](ControlFlow/Magic8Ball/magic8.py)
-Promgram to emulate a Magic 8 ball
+Program to emulate a Magic 8 ball
 
 ### Sal's Shipping:
 * 
