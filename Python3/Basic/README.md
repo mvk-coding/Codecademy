@@ -18,7 +18,8 @@ Simple program to output my initials in ASCII art
 ## Part 2: Control Flow
 
 ### Magic 8-Ball:
-* 
+* [magic8.py](ControlFlow/Magic8Ball/magic8.py)
+Simple promgram to emulate a Magic 8 ball
 
 ### Sal's Shipping:
 * 
