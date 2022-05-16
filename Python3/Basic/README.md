@@ -9,8 +9,8 @@ The course can be found here:
 ## Part 1: Hello World
 
 ### Block Letters:
-* block_letters.py
-A program to show my initials
+* [initials.py](/HelloWorld/BlockLetters/initials.py)
+Simple program to output my initials in ASCII art
 
 ### Receipts for lovely Loveseats:
 * loveseats.py
