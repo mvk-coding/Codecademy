@@ -1,4 +1,4 @@
-# [Codecademy](https://www.codecademy.com) - Learn C++
+# [Codecademy](https://www.codecademy.com) - Learn Python 3
 
 This is a place dedicated to my solutions of the projects in the "Python 3" course by Codecademy. 
 
