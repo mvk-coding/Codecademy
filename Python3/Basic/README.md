@@ -9,7 +9,7 @@ The course can be found here:
 ## Part 1: Hello World
 
 ### Block Letters:
-* [initials.py](/HelloWorld/BlockLetters/initials.py)
+* [initials.py](HelloWorld/BlockLetters/initials.py)
 Simple program to output my initials in ASCII art
 
 ### Receipts for lovely Loveseats:
