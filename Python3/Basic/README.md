@@ -10,16 +10,17 @@ The course can be found here:
 
 ### Block Letters:
 * [initials.py](HelloWorld/BlockLetters/initials.py)
-Simple program to output my initials in ASCII art
+Program to output my initials in ASCII art.
 
 ### Receipts for lovely Loveseats:
-* loveseats.py
+* [receipt.py](HelloWorld/LovelyLoveSeats/receipt.py)
+Program to print a simple receipt.
 
 ## Part 2: Control Flow
 
 ### Magic 8-Ball:
 * [magic8.py](ControlFlow/Magic8Ball/magic8.py)
-Simple promgram to emulate a Magic 8 ball
+Promgram to emulate a Magic 8 ball
 
 ### Sal's Shipping:
 * 
