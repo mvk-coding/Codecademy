@@ -10,10 +10,10 @@ The course can be found here:
 ### Part 1: Types 
 
 #### Restaurant Recommender:
-*[index.ts](TypeScript/RestaurantRecommende/index.ts)
+*[index.ts](FrontEnd/TypeScript/RestaurantRecommende/index.ts)
 Program that recommends reastaurant based on a few variables, like distance and opening hours. 
 
 #### TypeMart:
-*[index.ts](TypeScript/TypeMart/index.ts)
+*[index.ts](FrontEnd/TypeScript/TypeMart/index.ts)
 Program that calculates shipping cost and total price of an ordered product.
 
