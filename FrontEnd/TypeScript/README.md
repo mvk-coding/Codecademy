@@ -10,7 +10,7 @@ The course can be found here:
 ### Part 1: Types 
 
 #### Restaurant Recommender:
-*[index.ts](RestaurantRecommende/index.ts)
+*[index.ts](RestaurantRecommender/index.ts)
 Program that recommends reastaurant based on a few variables, like distance and opening hours. 
 
 #### TypeMart:
