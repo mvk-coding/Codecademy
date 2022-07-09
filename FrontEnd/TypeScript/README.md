@@ -17,3 +17,8 @@ Program that recommends reastaurant based on a few variables, like distance and 
 *[index.ts](TypeMart/index.ts)
 Program that calculates shipping cost and total price of an ordered product.
 
+### Part 2: Functions 
+
+#### Pixel Smile:
+*[index.ts](PixelSmile/index.ts)
+Program that draws pixelart based on dots, circles, and straight lines.
