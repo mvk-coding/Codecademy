@@ -22,3 +22,9 @@ Program that calculates shipping cost and total price of an ordered product.
 #### Pixel Smile:
 *[index.ts](PixelSmile/index.ts)
 Program that draws pixelart based on dots, circles, and straight lines.
+
+### Part 3: Complex Types 
+
+#### Restaurant Orders:
+*[index.ts](RestaurantOrders/index.ts)
+Program that provides a list of elligible dishes per restaurant based on maximum price.
