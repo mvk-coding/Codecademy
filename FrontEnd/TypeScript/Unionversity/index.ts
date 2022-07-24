@@ -41,7 +41,7 @@ let enrolledEvents: (Course|StudyGroup)[] = [];
  * id number or a string keyword. The eventype states to
  * search in the list of courses or (study)group.
  * 
- * @options: search criteria
+ * @param options: search criteria
  * @return: list of courses or sturygroups that fit the 
  * criteria
  */
@@ -56,6 +56,12 @@ function searchEvents(options: SearchEventOptions) {
   })
 }
 
+/**
+ * Add event to array of events the uses is enrolled in
+ * 
+ * @param event: the event to be added, 
+ * this is either a Course or Studygroup
+ */
 function enroll(event: Course|StudyGroup) {
   enrolledEvents = [...enrolledEvents, event]
 }
