@@ -28,3 +28,9 @@ Program that draws pixelart based on dots, circles, and straight lines.
 #### Restaurant Orders:
 *[index.ts](RestaurantOrders/index.ts)
 Program that provides a list of elligible dishes per restaurant based on maximum price.
+
+### Part 4: Union Types 
+
+#### Unionversity:
+*[index.ts](Unionversity/index.ts)
+Program that allows to user to search for a course and enroll in it.
