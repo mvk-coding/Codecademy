@@ -10,39 +10,39 @@ The course can be found here:
 ### Part 1: Types 
 
 #### Restaurant Recommender:
-*[index.ts](RestaurantRecommender/index.ts)
+* [index.ts](RestaurantRecommender/index.ts)
 Program that recommends reastaurant based on a few variables, like distance and opening hours. 
 
 #### TypeMart:
-*[index.ts](TypeMart/index.ts)
+* [index.ts](TypeMart/index.ts)
 Program that calculates shipping cost and total price of an ordered product.
 
 ### Part 2: Functions 
 
 #### Pixel Smile:
-*[index.ts](PixelSmile/index.ts)
+* [index.ts](PixelSmile/index.ts)
 Program that draws pixelart based on dots, circles, and straight lines.
 
 ### Part 3: Complex Types 
 
 #### Restaurant Orders:
-*[index.ts](RestaurantOrders/index.ts)
+* [index.ts](RestaurantOrders/index.ts)
 Program that provides a list of elligible dishes per restaurant based on maximum price.
 
 ### Part 4: Union Types 
 
 #### Unionversity:
-*[index.ts](Unionversity/index.ts)
+* [index.ts](Unionversity/index.ts)
 Program that allows to user to search for a course and enroll in it.
 
 ### Part 5: Type Narrowing 
 
 #### Park Service Volunteer Appreciation Program:
-*[index.ts](ParkService/index.ts)
+* [index.ts](ParkService/index.ts)
 Program to determine this season’s top volunteers. 
 
 ### Part 6: Advanced Object Types 
 
 #### Self Driving Car:
-*[index.ts](SelfDrivingCar/index.ts)
+* [index.ts](SelfDrivingCar/index.ts)
 Program to simulate a self driving car. 
