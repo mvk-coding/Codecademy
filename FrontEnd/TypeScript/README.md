@@ -34,3 +34,9 @@ Program that provides a list of elligible dishes per restaurant based on maximum
 #### Unionversity:
 *[index.ts](Unionversity/index.ts)
 Program that allows to user to search for a course and enroll in it.
+
+### Part 5: Type Narrowing 
+
+#### Park Service Volunteer Appreciation Program:
+*[index.ts](ParkService/index.ts)
+Program to determine this season’s top volunteers. 
