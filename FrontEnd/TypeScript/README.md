@@ -40,3 +40,9 @@ Program that allows to user to search for a course and enroll in it.
 #### Park Service Volunteer Appreciation Program:
 *[index.ts](ParkService/index.ts)
 Program to determine this season’s top volunteers. 
+
+### Part 6: Advanced Object Types 
+
+#### Self Driving Car:
+*[index.ts](SelfDrivingCar/index.ts)
+Program to simulate a self driving car. 
