@@ -21,7 +21,7 @@ The course can be found here:
 * [index.html](Part3/FashionBlog/index.html)
 Simple page to showcase a Fashion Blog, HTML only.
 
-#### Fashion Blog:
+#### Wine Festival Schedule:
 * [index.html](Part3/WineFestival/index.html)
 Simple page to showcase a table.
 
