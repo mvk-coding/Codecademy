@@ -9,12 +9,21 @@ The course can be found here:
 
 ### Part 1: Introduction to Front-End Engineer Career Path
 
+* No projects
+
 ### Part 2: Overview of Web Development
+
+* No projects
 
 ### Part 3: Fundamentals of HTML
 
 #### Fashion Blog:
-* 
+* [index.html](Part3/FashionBlog/index.html)
+Simple page to showcase a Fashion Blog, HTML only.
+
+#### Fashion Blog:
+* [index.html](Part3/WineFestival/index.html)
+Simple page to showcase a table.
 
 ### Part 4: Fundamentals of CSS
 
