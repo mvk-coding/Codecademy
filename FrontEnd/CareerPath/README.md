@@ -25,6 +25,10 @@ Simple page to showcase a Fashion Blog, HTML only.
 * [index.html](Part3/WineFestival/index.html)
 Simple page to showcase a table.
 
+#### New York City Blog
+* [index.html](Part3/NYCBlog/index.html)
+Simple page to showcase some semantic HTML.
+
 ### Part 4: Fundamentals of CSS
 
 
