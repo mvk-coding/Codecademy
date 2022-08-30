@@ -31,6 +31,10 @@ Simple page to showcase some semantic HTML.
 
 ### Part 4: Fundamentals of CSS
 
+#### Healthy Recipes
+* [style.css](Part4/Recipes/style.css)
+Simple page for CSS practice.
+
 
 ### Part 5: Developing Websites Locally
 
