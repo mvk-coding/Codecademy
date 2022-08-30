@@ -17,10 +17,9 @@ The course can be found here:
 
 ### Part 3: Fundamentals of HTML
 
-#### Learn HTML: Structure
-
-* Fashion Blog:
-  - [index.html](Part3/FashionBlog/index.html) Simple page to showcase a Fashion Blog, HTML only.
+* Learn HTML: Structure
+  * Fashion Blog:
+    - [index.html](Part3/FashionBlog/index.html) Simple page to showcase a Fashion Blog, HTML only.
 
 #### Learn HTML: Tables
 
