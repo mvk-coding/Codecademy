@@ -19,8 +19,8 @@ The course can be found here:
 
 #### Learn HTML: Structure
 
-##### Fashion Blog:
-* [index.html](Part3/FashionBlog/index.html)
+* ##### Fashion Blog:
+** [index.html](Part3/FashionBlog/index.html)
 Simple page to showcase a Fashion Blog, HTML only.
 
 #### Learn HTML: Tables
