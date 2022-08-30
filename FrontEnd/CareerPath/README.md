@@ -20,27 +20,27 @@ The course can be found here:
 #### Learn HTML: Structure
 
 * ##### Fashion Blog:
- - [index.html](Part3/FashionBlog/index.html) Simple page to showcase a Fashion Blog, HTML only.
+  - [index.html](Part3/FashionBlog/index.html) Simple page to showcase a Fashion Blog, HTML only.
 
 #### Learn HTML: Tables
 
 * ##### Wine Festival Schedule:
- - [index.html](Part3/WineFestival/index.html) Simple page to showcase a table.
+  - [index.html](Part3/WineFestival/index.html) Simple page to showcase a table.
 
 #### Semantic HTML
 
 * ##### New York City Blog
- - [index.html](Part3/NYCBlog/index.html) Simple page to showcase some semantic HTML.
+  - [index.html](Part3/NYCBlog/index.html) Simple page to showcase some semantic HTML.
 
 ### Part 4: Fundamentals of CSS
 
 #### Learn CSS: Selectors and Visual Rules
 
 * ##### Healthy Recipes
- - [style.css](Part4/Recipes/style.css) Simple page for CSS practice.
+  - [style.css](Part4/Recipes/style.css) Simple page for CSS practice.
 
 * ##### Olivia Woodruff Portfolio
- - [style.css](Part4/Olivia/style.css) Simple page for more CSS practice.
+  - [style.css](Part4/Olivia/style.css) Simple page for more CSS practice.
 
 ### Part 5: Developing Websites Locally
 
