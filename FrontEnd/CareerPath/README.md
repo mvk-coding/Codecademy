@@ -1,6 +1,6 @@
 # [Codecademy](https://www.codecademy.com) - Career Path 
 ## Front-End Engineer
-[test](#Part_26)
+[test](#Part-33:-Portfolio-Project:-Open-Ended-Project)
 
 This is a place dedicated to my solutions of the projects in the "Front-End Engineer" Career Path by Codecademy. They will be updated as I make progress in the path.
 
